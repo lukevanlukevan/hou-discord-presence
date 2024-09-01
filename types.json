@@ -1,0 +1,12 @@
+{
+	"sop": { "prompt": "Messing around in SOPs", "icon": "sop" },
+	"cop": { "prompt": "Playing around in COPs", "icon": "cop2" },
+	"pop": { "prompt": "Wrangling particles", "icon": "popsolver" },
+	"wrangle": { "prompt": "Typing up some complex VEX", "icon": "wrangle" },
+	"flip": { "prompt": "Tweaking particle separation", "icon": "flipsolver" },
+	"rbd": { "prompt": "Adjusting RBD constraints", "icon": "rbdsolver" },
+	"solver": { "prompt": "Fiddling with a solver", "icon": "solver" },
+	"top": { "prompt": "Optimizing TOP networks", "icon": "top" },
+	"vellum": { "prompt": "Simulating cloth", "icon": "vellumsolver" },
+	"wedge": { "prompt": "Wedging some parameters", "icon": "wedge" }
+}

@@ -1,0 +1,8 @@
+{
+	"env": [
+		{
+			"HDP": "Z:\\05-RESOURCES\\21_HoudiniPackages\\hou-discord-presence"
+		}
+	],
+	"path": "$HDP"
+}
