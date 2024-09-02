@@ -13,15 +13,15 @@ Currently, I have uploaded these icons:
 
 If you have more to add, please send me a message.
 
-## Customization
+### Customization
 
 This tool pulls the `node.type().name()` of the selected node. You can add more to `types.json`. If you are really kind, you will make a pull request to add some more fun to this.
 
-# Installation
+## Installation
 
 It's a package. Drop `HDP.json` in your packages folder and update the path to reflect where the folder is.
 
-# Contributing
+## Contributing
 
 To contribute to this project, follow these steps:
 
