@@ -1,4 +1,5 @@
 {
+	"idling": { "prompt": "Tweaking parameters", "icon": "hou_icon" },
 	"sop": { "prompt": "Messing around in SOPs", "icon": "sop" },
 	"cop": { "prompt": "Playing around in COPs", "icon": "cop2" },
 	"pop": { "prompt": "Wrangling particles", "icon": "popsolver" },
@@ -8,5 +9,8 @@
 	"solver": { "prompt": "Fiddling with a solver", "icon": "solver" },
 	"top": { "prompt": "Optimizing TOP networks", "icon": "top" },
 	"vellum": { "prompt": "Simulating cloth", "icon": "vellumsolver" },
-	"wedge": { "prompt": "Wedging some parameters", "icon": "wedge" }
+	"wedge": { "prompt": "Wedging some parameters", "icon": "wedge" },
+	"rop": { "prompt": "Setting up a render", "icon": "hou_icon" },
+	"light": { "prompt": "Placing lights", "icon": "hou_icon" },
+	"python": { "prompt": "Writing some Python", "icon": "hou_icon" }
 }

@@ -27,7 +27,7 @@ while True:
 
         c = rpyc.classic.connect("localhost", 9900)
         hou = c.modules.hou
-        activity_name = "Idling"
+        activity_name = "Tweaking parameters"
         activity_type = "sop"
         activity_icon = "hou_icon"
         try:
